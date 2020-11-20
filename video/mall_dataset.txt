@@ -1,0 +1,13 @@
+video name:mall_dataset
+FPS:4.0
+width:640
+height:480
+points of ROI:
+33,441
+637,443
+433,59
+128,76
+points of distance:
+390,413
+448,407
+378,363

@@ -1,0 +1,13 @@
+video name:sample5
+FPS:22.99999998928979
+width:720
+height:480
+points of ROI:
+37,474
+718,474
+548,97
+172,97
+points of distance:
+256,410
+234,411
+257,390
